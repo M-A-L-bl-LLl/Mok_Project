@@ -138,3 +138,54 @@ hr {
         -ms-transform: rotate(-10deg);
             transform: rotate(-10deg);
 }
+
+.wb {
+    padding-top: 35px;
+    margin-bottom: 0px;
+}
+
+.wb h4{
+    font-size: 35px;
+}
+
+#lg {
+    background: #ebebeb;
+    padding-top: 70px;
+    padding-bottom: 70px;
+    text-align: center;
+}
+
+#lg h4 {
+    font-size: 45px;
+}
+
+#r {
+    background: #ff7878;
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+
+#r h4{
+    color: white;
+    font-size: 45px;
+}
+
+#r p{
+    color: white;
+}
+
+#f {
+    background: #2d2d2d;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+
+#f i{
+    color: #bdbdbd;
+    font-size: 30px;
+    padding: 20px;
+}
+
+#f i:hover {
+    color: #ff7878;
+}
